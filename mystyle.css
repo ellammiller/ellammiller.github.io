@@ -3,6 +3,10 @@ body{
     font-family: Arial;
 }
 
+.info{
+
+}
+
 h1{
     color: #AC3B61;
 }
@@ -11,10 +15,10 @@ h4{
     color: #898989;
 }
 
-h3{
+.aboutme, .education, .projects, .information{
     color: #898989;
 }
 
-p, ul{
+.paragraph, .list{
     color: #EDC7B7;
 }
